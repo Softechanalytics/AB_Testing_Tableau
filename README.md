@@ -31,6 +31,18 @@ GLOBOX, recognized for boutique fashion and decor, has expanded into food and dr
 Experiment Duration: January 25, 2023 – February 6, 2023
 </ul>
 
+![image](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/images/p1.png)
+![image](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/images/p2.png)
+![image](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/images/p3.png)
+![image](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/images/p4.png)
+![image](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/images/p5.png)
+![image](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/images/p6.png)
+![image](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/images/p7.png)
+![image](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/images/p8.png)
+![image](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/images/p9.png)
+![image](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/images/p10.png)
+
+
 ## Data Extraction and Preparation
 
 Data were collected from GLOBOX’s database and structured through SQL extraction, transforming three main tables:
