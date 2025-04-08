@@ -7,13 +7,13 @@ The primary goal was to evaluate whether the new banner significantly impacts us
 
 ## Contents
 <ol>
-<li>Project Context</ol>
+<li>Project Context</li>
 
-<li>Data Extraction and Preparation</ol>
+<li>Data Extraction and Preparation</li>
 
-<li>Methodology and Analysis</ol>
+<li>Methodology and Analysis</li>
 
-<li>Results and Interpretation</ol>
+<li>Results and Interpretation</li>
 
 <li>Insights and Recommendations</li>
 
