@@ -17,7 +17,7 @@ The primary goal was to evaluate whether the new banner significantly impacts us
 
 <ol>Insights and Recommendations</ol>
 
-<ol>Additional Resources</ol>ol>
+<ol>Additional Resources</ol>
 </ul>
 
 ## Project Context
