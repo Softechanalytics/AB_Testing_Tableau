@@ -57,7 +57,7 @@ Analytical methods included:
 <li>Confidence Interval Calculation</li>
 
 </li>Data Visualization using Tableau </ul>
-[Dashboard Link](https://public.tableau.com/app/profile/chukwuemeka.isaac.anyakwu/viz/GloboxProjectChuksIsaac/Globox?publish=yes)
+
 
 Key metrics were compared across demographics, device types, and geographic regions.
 
