@@ -56,9 +56,9 @@ Analytical methods included:
 </ul>
 <li>Confidence Interval Calculation</li>
 
-</li>Data Visualization using Tableau 
+</li>Data Visualization using Tableau </ul>
 [Dashboard Link](https://public.tableau.com/app/profile/chukwuemeka.isaac.anyakwu/viz/GloboxProjectChuksIsaac/Globox?publish=yes)</li>
-</ul>
+
 Key metrics were compared across demographics, device types, and geographic regions.
 
 ## Results and Interpretation
@@ -87,7 +87,7 @@ Tailor marketing strategies according to insights gained from gender and device-
 
 [Excel Data Analysis File](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/globox_extraction_masterschoolProject.xlsx)
 
-[[SQL Data Extraction](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/SQLdataExtraction.pdf)
+[SQL Data Extraction](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/SQLdataExtraction.pdf)
 
 [Tabeau Presentation](https://public.tableau.com/app/profile/chukwuemeka.isaac.anyakwu/viz/GloboxProjectChuksIsaac/Globox?publish=yes)
 
