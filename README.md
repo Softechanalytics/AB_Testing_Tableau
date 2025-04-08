@@ -82,6 +82,8 @@ Tailor marketing strategies according to insights gained from gender and device-
 </ul>
 
 ## Additional Resources
+[View the Report](https://github.com/username/repository/blob/main/report.pdf)
+
 <ul>
 
 							<li>[Comprehensive A/B Experiment Report]</li> 
