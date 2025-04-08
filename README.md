@@ -30,6 +30,7 @@ GLOBOX, recognized for boutique fashion and decor, has expanded into food and dr
 
 Experiment Duration: January 25, 2023 – February 6, 2023
 </ul>
+
 ## Data Extraction and Preparation
 
 Data were collected from GLOBOX’s database and structured through SQL extraction, transforming three main tables:
