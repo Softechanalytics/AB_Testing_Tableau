@@ -82,15 +82,10 @@ Tailor marketing strategies according to insights gained from gender and device-
 </ul>
 
 ## Additional Resources
-[View the Report](https://github.com/username/repository/blob/main/report.pdf)
+[Comprehensive A/B Experiment Report](https://drive.google.com/file/d/1kOabmye4mHumBTma2b7Eh7DkRvo0cw46/view?usp=drive_link)
+[Excel Data Analysis File](https://drive.google.com/file/d/1xVWTga8VYSPHCoAM_xUQ8SEYIoQ23SdO/view?usp=drive_link)
+[Tabeau Presentation](https://public.tableau.com/app/profile/chukwuemeka.isaac.anyakwu/viz/GloboxProjectChuksIsaac/Globox?publish=yes)
 
-<ul>
 
-							<li>[Comprehensive A/B Experiment Report]</li> 
-							<li>[Excel Data Analysis File]</li> 
-							<li>[SQL Data Extraction Queries]</li>
-       
-							<li>[Tableau Visualizations Dashboard](https://public.tableau.com/app/profile/chukwuemeka.isaac.anyakwu/viz/GloboxProjectChuksIsaac/Globox?publish=yes)</li>
-							
- </ul>
+
 
