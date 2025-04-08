@@ -6,19 +6,19 @@ This portfolio demonstrates an end-to-end A/B Testing analysis conducted for the
 The primary goal was to evaluate whether the new banner significantly impacts user behavior and increases key business metrics, including revenue, feasibility, and product awareness.
 
 ## Contents
-<ul>
-<ol>Project Context</ol>
+<ol>
+<li>Project Context</ol>
 
-<ol>Data Extraction and Preparation</ol>
+<li>Data Extraction and Preparation</ol>
 
-<ol>Methodology and Analysis</ol>
+<li>Methodology and Analysis</ol>
 
-<ol>Results and Interpretation</ol>
+<li>Results and Interpretation</ol>
 
-<ol>Insights and Recommendations</ol>
+<li>Insights and Recommendations</li>
 
-<ol>Additional Resources</ol>
-</ul>
+<li>Additional Resources</li>
+</ol>
 
 ## Project Context
 
