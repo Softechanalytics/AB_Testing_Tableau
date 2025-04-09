@@ -31,7 +31,7 @@ GLOBOX, recognized for boutique fashion and decor, has expanded into food and dr
 Experiment Duration: January 25, 2023 – February 6, 2023
 </ul>
 
-![image](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/images/p1.png)
+
 ![image](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/images/p2.png)
 ![image](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/images/p3.png)
 ![image](https://github.com/Softechanalytics/AB_Testing_Tableau/blob/main/images/p4.png)
